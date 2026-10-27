@@ -37,7 +37,7 @@ Every app ends the same way: you log in on staffpick.ai with your email code and
 
 ## Data
 
-The plugin sends your hiring request and intros to staffpick.ai. Sign-in is StaffPick's own (OAuth 2.1), and the plugin stores nothing. Profiles are anonymised: first name and last initial, country, test scores and rates, never contact details. StaffPick shares contact details by email only after a worker accepts an intro. Payments happen on Whop, by you, never by the AI app.
+The plugin sends your hiring request and intros to staffpick.ai. Sign-in is StaffPick's own (OAuth 2.1), and the plugin stores nothing. Profiles are anonymised: first name and last initial, country, test scores and rates, never contact details. StaffPick shares contact details by email only after a worker accepts an intro. The AI app never pays or opens a checkout: plans are started on staffpick.ai, by you.
 
 - Privacy: https://staffpick.ai/privacy
 - Terms: https://staffpick.ai/terms

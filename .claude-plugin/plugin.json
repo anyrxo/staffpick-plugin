@@ -1,7 +1,7 @@
 {
   "name": "staffpick",
   "displayName": "StaffPick",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Hire tested remote staff from your AI app: turn a hiring need into a brief, a shortlist and an intro on StaffPick.",
   "author": { "name": "StaffPick", "url": "https://staffpick.ai" },
   "homepage": "https://staffpick.ai/agents",
