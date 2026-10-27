@@ -1,0 +1,11 @@
+{
+  "name": "staffpick",
+  "version": "0.1.0",
+  "description": "Hire tested remote staff: brief, shortlist and intro on StaffPick.",
+  "mcpServers": {
+    "staffpick": {
+      "url": "https://staffpick.ai/mcp",
+      "type": "http"
+    }
+  }
+}
